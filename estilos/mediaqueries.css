@@ -1,0 +1,27 @@
+@media screen and (min-width: 717px) {
+
+    header > span.material-symbols-outlined {
+        display: none;
+    }
+
+    nav {
+        display: block;
+        box-sizing: content-box;
+    }
+
+    nav > a {
+        display: inline-block;
+        margin: 0% 1%;
+        background-color: red;
+    }
+
+    nav >:hover {
+        font-weight: bold;
+    }
+
+    main {
+        max-width: 680px;
+        margin: auto;
+        font-size: 1.2em;
+    }
+}
