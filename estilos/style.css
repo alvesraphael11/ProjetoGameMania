@@ -115,11 +115,12 @@ div#trailer > iframe {
 
 main {
     background-color: rgb(55, 55, 255);
-    margin: 0px 35px;
-    padding: 30px 35px 10px 35px;
+    margin-bottom: 35px;
+    padding: 0px 35px 10px 35px;
     text-align: justify;
     border-radius: 0px 0px 15px 15px;
     font-weight: 300;
+    font-size: 1.08em;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.425);
 }
 
