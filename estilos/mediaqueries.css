@@ -26,4 +26,9 @@
         border-radius: 0px 0px 15px 15px;
         box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.425);
     }
+
+    footer {
+        font-size: 1.2em;
+        margin-top: -5px;
+    }
 }
